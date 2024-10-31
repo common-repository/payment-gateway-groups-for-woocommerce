@@ -1,0 +1,26 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .woopgg-info-box{
+ 	padding: 10px;
+ 	background-color: #fff;
+ 	max-width: 250px;
+ }
+ .woopgg-info-box ul{
+ 	list-style: initial;
+ 	padding-left: 30px;
+ }
+ .woopgg-info-box .btn-p{
+ 	text-align: center;
+ 	margin-top: 20px;
+ }
+ .woopgg-info-box .btn{
+ 	padding: 5px 10px;
+ 	display: inline-block;
+ 	margin: 0 auto;
+ 	background: #00a6a6;
+ 	text-decoration: none;
+ 	color: #fff;
+ 	font-weight: 500;
+ }
